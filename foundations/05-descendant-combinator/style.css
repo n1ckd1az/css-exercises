@@ -1,0 +1,13 @@
+.container .text {
+    background-color: rgb(225, 225, 0);
+    color: hsl(0, 100%, 50%);
+    font: 20px;
+    text-align: center;
+}
+
+.container #txt {
+    background-color: rgb(225, 225, 0);
+    color: hsl(0, 100%, 50%);
+    font: 20px;
+    text-align: center;
+}
